@@ -14,6 +14,7 @@
 
 # production
 /build
+/noc-report-app-web
 
 # misc
 .DS_Store
