@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/noc-report-app-web
 /.pnp
 .pnp.js
 

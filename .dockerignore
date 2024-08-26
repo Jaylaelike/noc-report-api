@@ -1,0 +1,5 @@
+node_modules
+noc-report-app-web
+.git
+.gitignore
+*.md
